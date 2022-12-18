@@ -17,11 +17,11 @@ Saya adalah [{bn}](t.me/{bu}), bot yang bisa streaming musik di OS/VCG !
 jangan sungkan tambahkan saya ke grup kalian ya...
 
 Jika kalian punya pertanyaan atau masalah lainnya?
-kalian bisa hubungi ➥ [Owner](t.me/erojistrix)
+kalian bisa hubungi ➥ [Owner](t.me/punyaa_ra)
 
 **Kalian ingin berdonasi? boleh pake bangettt**
 
-[Donasi](https://bit.ly/donasidhimasazman) - [Join Channel](t.me/AzumanProjects) - [Command List](https://telegra.ph/COMMAND-LIST-06-10)
+[Donasi](https://bit.ly/idoganz) - [Join Channel](t.me/Idoganz_Project) - [Command List](https://telegra.ph/COMMAND-LIST-06-10)
 
 Ingin Menambahkan Saya ke Grup Anda? Cukup Klik Tombol di Bawah""",
     reply_markup=InlineKeyboardMarkup(
@@ -32,10 +32,10 @@ Ingin Menambahkan Saya ke Grup Anda? Cukup Klik Tombol di Bawah""",
                     ),
                 ],[
                     InlineKeyboardButton(
-                        "👤 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/erojistrix"
+                        "👤 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/punyaa_ta"
                     ),
                     InlineKeyboardButton(
-                        "📥 ᴏꜰꜰɪᴄɪᴀʟ ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "📥 ᴏꜰꜰɪᴄɪᴀʟ ɢʀᴏᴜᴘ", url=f"https://t.me/{Idoganzzbot}"
                     )
                 ],[
                     InlineKeyboardButton(
@@ -46,7 +46,7 @@ Ingin Menambahkan Saya ke Grup Anda? Cukup Klik Tombol di Bawah""",
                     )
                 ],[
                     InlineKeyboardButton(
-                        "📝 ʀᴇᴘᴏꜱɪᴛᴏʀʏ", url=f"https://github.com/dhimasazman/ManMusic"
+                        "📝 ʀᴇᴘᴏꜱɪᴛᴏʀʏ", url=f"https://github.com/mr494/Jooxmusic"
                     ),
                 ]
             ]
